@@ -5,6 +5,7 @@ import javax.persistence.Id;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
+//h
 @Entity
 public class Customer {
 
