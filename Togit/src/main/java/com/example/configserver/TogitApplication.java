@@ -3,7 +3,7 @@ package com.example.configserver;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//mama1234567896666778912
+//mama12345678966667789123
 @SpringBootApplication
 public class TogitApplication {
 
